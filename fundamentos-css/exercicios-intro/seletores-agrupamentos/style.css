@@ -1,0 +1,14 @@
+.invertido,
+.melhorado {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.invertido {
+  background-color: black;
+  color: white;
+}
+
+.melhorado {
+  background-color: yellow;
+}
